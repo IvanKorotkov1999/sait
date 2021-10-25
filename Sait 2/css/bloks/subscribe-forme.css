@@ -1,0 +1,20 @@
+.subscribe-forme {
+}
+.subscribe-form_input {
+    background: #FFFFFF;
+    border: 1px solid #F72464; 
+    border-radius: 4px;
+    height: 42px ;
+    width: 230px ;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1;
+}
+.subscribe-form_input::placeholder{
+    color: #999;
+}
+.subscribe-form_submit {
+}

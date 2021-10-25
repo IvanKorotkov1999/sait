@@ -1,0 +1,29 @@
+.header_row {
+    position: relative;
+    display:  flex;
+    justify-content: flex-end;
+}
+.header_content {
+    position: absolute;
+    width: 670px ;
+    height: 300px;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.header_title {
+    margin: 0;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 96px;
+}
+.header_text {
+    margin: 0;
+    margin-bottom: 60px;
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 22px;
+    line-height: 1.5;
+}
